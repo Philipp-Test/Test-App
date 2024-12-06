@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4F46E5"  # Leuchtendes Blau als Akzentfarbe
+backgroundColor = "#F3F4F6"  # Helle Hintergrundfarbe
+secondaryBackgroundColor = "#E2E8F0"  # Etwas dunklerer Hintergrund für die Seitenleiste
+textColor = "#1F2937"  # Dunkler Text für Kontrast
+font = "sans serif"  # Schriftart Sans Serif
